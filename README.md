@@ -1,4 +1,5 @@
-# Certify
+# Certify - Discontinued
+## This is discontinued and will be deleted. Use waterlock instead! :)
 ### a Sails application scaffold for user authentication and user management
 The goal of Certify is to provide a working scaffold for user authentication that
 can be the basis of Sails applications where user authentication is a necessary component.
